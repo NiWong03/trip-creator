@@ -93,3 +93,11 @@ npm run eslint
 ```bash
 npm run build
 ```
+
+## Screenshots
+
+Here are some screenshots of the Trip Creator application:
+
+![Trip Creator Screenshot 1](screenshots/Trip-Creator-SS1.png)
+![Trip Creator Screenshot 2](screenshots/Trip-Creator-SS2.png)
+![Trip Creator Screenshot 3](screenshots/Trip-Creator-SS3.png)
